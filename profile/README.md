@@ -9,6 +9,6 @@ Saiba mais em [vaivoa.com](https://vaivoa.com/)
 
 ## Comunidade Interna
 
-A Vaivoa incentiva os seus desenvolvedores em seu processo de crescimento e aceleração técnica. Veja alguns dos conteúdos criados por nossos devs em nossa comunidade [Dev.To](https://dev.to/vaivoa).
+A Vaivoa incentiva os seus desenvolvedores em seu processo de crescimento e aceleração técnica. Veja alguns dos conteúdos criados por nossos devs em nossa comunidade no [Dev.To](https://dev.to/vaivoa).
 
 
